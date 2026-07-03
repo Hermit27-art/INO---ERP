@@ -4,7 +4,7 @@
 
 // >>> ISI DENGAN URL WEB APP APPS SCRIPT ANDA (lihat README.md) <<<
 const CONFIG = {
-  API_URL: 'https://script.google.com/macros/s/AKfycbyU7qEIthnQyK_R9wHN8_VROsanit-FQcpslSJo2TwkzxQx7oM4bVgGBk0yxHbLaobdLw/exec' // contoh: 'https://script.google.com/macros/s/AKfycb.../exec'
+  API_URL: 'https://script.google.com/macros/s/AKfycbxznd135pQTXCgMwV9cDA6xAez0TYCaewUIpzGJsCuw3ZiRJIq4uYcpSOeY87aDbEegAQ/exec' // contoh: 'https://script.google.com/macros/s/AKfycb.../exec'
 };
 
 const SCHEMA_KEYS = {
